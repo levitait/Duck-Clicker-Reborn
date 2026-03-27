@@ -1,2 +1,6 @@
-# Duck-Clicker-Reborn
+# Duck Clicker Reborn
 A clicker game about Ducks...
+<br>
+<br>
+# Hold on... But what is Duck Clicker?
+***Duck Clicker*** *is a game developed by Really Studios, first created in 2026. The game was released on GitHub the same day it was created.* The original was soon after, discontinued but is now been remade as **Duck Clicker Reborn**
